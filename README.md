@@ -1,3 +1,3 @@
 # epic-website
-A sample website made for a competition (which i won, ofc)
+A very epic website for a very epic company 😎.
 ![plot](./website.png)
